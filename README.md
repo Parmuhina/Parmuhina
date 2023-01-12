@@ -16,11 +16,11 @@ In each project I use MySql database, HTML, CSS and JS basics.
 
 ### Skills & Toolset
 
-PHP
-MySQL
-Laravel
-Unit & Integration testing (including TDD methods)
-MVC, SOLID & design patterns (KISS, DRY etc.)
-GIT
-Building REST API
-HTML & CSS, VueJS basics
+* PHP
+* MySQL
+* Laravel
+* Unit & Integration testing (including TDD methods)
+* MVC, SOLID & design patterns (KISS, DRY etc.)
+* GIT
+* Building REST API
+* HTML & CSS, VueJS basics
