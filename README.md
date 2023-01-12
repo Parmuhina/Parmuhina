@@ -14,7 +14,7 @@ Cryptocurrency coin market is project where I use Coinmarcetcap API responses an
 
 In each project I use MySql database, HTML, CSS and JS basics.
 
-###Skills & Toolset
+### Skills & Toolset
 
 PHP
 MySQL
