@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 - I`am located in Aizkraukle, Riga, Latvia
 - 🔭 I’m currently working on Internet bank platform 
 - 🌱 I’m currently make better skills in programming
