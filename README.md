@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I`am located in Aizkraukle, Riga, Latvia
+- I`am located in Riga, Latvia
 - I’m currently working on Internet bank platform 
 - I’m currently developing better skills in programming
 - How to reach me: If you`ve got any questions, then my email is d.parmuhina@gmail.com
